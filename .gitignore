@@ -1,0 +1,19 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/
+
+# dotenv
+.env
+.env.*
+.idea
+.DS_Store
+
+# project auth
+**/playwright/.auth/
+result.json
+
+**/lotto-event-2401/
+**/four-leaves-clover/
+/sy-test/
